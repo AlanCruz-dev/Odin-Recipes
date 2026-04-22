@@ -1,1 +1,2 @@
-# Odin Recipes. En este proyecto demostraré mis habilidades básicas de HTML, como crear enlaces, listas e imágenes.
+# Odin Recipes. this project, showcases my foundational HTML skills, including creating links, lists, and images."
+
